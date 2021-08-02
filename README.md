@@ -5,5 +5,5 @@ Reads in seimic event file from mutliple injection campaigns. Bubble size is sca
 
 Libraries used include Ploty, Pandas, Numpy.
 
-![Screenshot 1](https://github.com/fieldconcepts/MIRF-Explorer/blob/master/screenshots/screenshot1.jpg)
-![Screenshot 1](https://github.com/fieldconcepts/MIRF-Explorer/blob/master/screenshots/screenshot1.jpg)
+![Screenshot 1](https://github.com/fieldconcepts/Microseismic-Visualizer/blob/main/screenshots/newplot%20(1).png)
+
